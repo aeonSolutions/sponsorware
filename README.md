@@ -1,3 +1,5 @@
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) >> Sponsorware F.A.Q.
+
 ## ✨&ensp;Quick Explanation
 
 1. When I reach **250** sponsors, another half of my repositories will be released to public. 
