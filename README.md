@@ -1,7 +1,7 @@
 **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) >> Sponsorware F.A.Q.
 
 <p align="right">
- <a href=" ">Change Language</a> <br>
+ <a href="https://github-com.translate.goog/aeonSolutions/sponsorware?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
 Last update: 18-08-2024
 </p>
 
